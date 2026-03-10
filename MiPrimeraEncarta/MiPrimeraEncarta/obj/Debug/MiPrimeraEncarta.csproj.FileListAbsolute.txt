@@ -1,0 +1,10 @@
+C:\Users\sgjas\source\repos\MiPrimeraEncarta\MiPrimeraEncarta\bin\Debug\MiPrimeraEncarta.exe.config
+C:\Users\sgjas\source\repos\MiPrimeraEncarta\MiPrimeraEncarta\bin\Debug\MiPrimeraEncarta.exe
+C:\Users\sgjas\source\repos\MiPrimeraEncarta\MiPrimeraEncarta\bin\Debug\MiPrimeraEncarta.pdb
+C:\Users\sgjas\source\repos\MiPrimeraEncarta\MiPrimeraEncarta\obj\Debug\MiPrimeraEncarta.csproj.AssemblyReference.cache
+C:\Users\sgjas\source\repos\MiPrimeraEncarta\MiPrimeraEncarta\obj\Debug\MiPrimeraEncarta.Properties.Resources.resources
+C:\Users\sgjas\source\repos\MiPrimeraEncarta\MiPrimeraEncarta\obj\Debug\MiPrimeraEncarta.csproj.GenerateResource.cache
+C:\Users\sgjas\source\repos\MiPrimeraEncarta\MiPrimeraEncarta\obj\Debug\MiPrimeraEncarta.csproj.CoreCompileInputs.cache
+C:\Users\sgjas\source\repos\MiPrimeraEncarta\MiPrimeraEncarta\obj\Debug\MiPrimeraEncarta.exe
+C:\Users\sgjas\source\repos\MiPrimeraEncarta\MiPrimeraEncarta\obj\Debug\MiPrimeraEncarta.pdb
+C:\Users\sgjas\source\repos\MiPrimeraEncarta\MiPrimeraEncarta\obj\Debug\MiPrimeraEncarta.exe.config
